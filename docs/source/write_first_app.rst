@@ -462,7 +462,7 @@ to ``changeCarOwner`` and input the arguments like this:
     chaincodeId: 'fabcar',
     fcn: 'changeCarOwner',
     args: ['CAR10', 'Dave'],
-    chainId: 'mychannel',
+    chainId: 'fabcar',
     txId: tx_id
   };
 
