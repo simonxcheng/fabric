@@ -393,7 +393,7 @@ as the identifying key here. Edit this code block to look like this:
     chaincodeId: 'fabcar',
     fcn: 'createCar',
     args: ['CAR10', 'Chevy', 'Volt', 'Red', 'Nick'],
-    chainId: 'mychannel',
+    chainId: 'fabcar',
     txId: tx_id
   };
 
